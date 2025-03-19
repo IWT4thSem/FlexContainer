@@ -1,0 +1,29 @@
+header{
+    height: 120px;
+    background-color: rgb(157, 120, 192);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    list-style: none;
+}
+#b1{
+    height: 400px;
+    width: 400px;
+    border: 2px solid red;
+    background-color: rgb(24, 143, 195);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b2{
+    height: 200px;
+    width: 200px;
+    border: 2px solid red;
+    background-color: rgb(46, 202, 35);
+}
